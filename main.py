@@ -10,8 +10,8 @@ import time
 
 
 # Facebook credentials for Tinder login
-facebook_email = "2002ehsansoltani@gmail.com"
-facebook_password = "XrDM7&I#2tFM"
+facebook_email = ""
+facebook_password = ""
 
 # Set up Chrome driver with options
 tinder_url = "https://tinder.com/"
